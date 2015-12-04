@@ -1,0 +1,1 @@
+amqplib = Npm.require('amqplib');

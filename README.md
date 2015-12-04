@@ -1,0 +1,1 @@
+Wrapped amqplib promise API. Version matches amqplib version.
